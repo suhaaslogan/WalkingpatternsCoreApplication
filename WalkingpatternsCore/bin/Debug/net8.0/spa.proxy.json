@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"RedirectUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "D:\\Code Repository\\WalkingpatternsCore",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
